@@ -1,9 +1,9 @@
 # keras-yolo
 
 Download COCO detection data from http://cocodataset.org/#download
-#             + http://images.cocodataset.org/zips/train2014.zip <= train images
-#             + http://images.cocodataset.org/zips/val2014.zip <= validation images
-#             + http://images.cocodataset.org/annotations/annotations_trainval2014.zip <= train and validation annotations
+    http://images.cocodataset.org/zips/train2014.zip <= train images
+    http://images.cocodataset.org/zips/val2014.zip <= validation images
+    http://images.cocodataset.org/annotations/annotations_trainval2014.zip <= train and validation annotations
 
 Run the coco2pascal.py script to convert coco format to VOC:
 
